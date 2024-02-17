@@ -1,0 +1,16 @@
+void fib(int n) 
+{ 
+    int a=۱,b=۱;
+    int c; 
+    cout<<a<<endl;
+    cout<<b<<endl; 
+    int i=۲;
+    while (i<n)
+    { 
+        c=a+b;
+        cout<<c<<endl;
+        a=b;
+        b=c;
+        i++;
+    }
+}
