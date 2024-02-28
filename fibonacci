@@ -1,10 +1,10 @@
 void fib(int n) 
 { 
-    int a=۱,b=۱;
+    int a=1,b=1;
     int c; 
     cout<<a<<endl;
     cout<<b<<endl; 
-    int i=۲;
+    int i=2;
     while (i<n)
     { 
         c=a+b;
