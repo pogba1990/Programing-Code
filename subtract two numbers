@@ -13,6 +13,6 @@ int main()
    sub = firstNumber - secondNumber;
 
    // displaying the output
-   cout <<"The subtraction of two numbers is= " << sub << endl;
+   cout <<"The subtraction of two numbers is: " << sub << endl;
    return 0;
 }
