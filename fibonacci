@@ -10,7 +10,7 @@ void fib(int n)
         z=a+b;
         cout<<c<<endl;
         a=b;
-        b=c;
+        b=z;
         i++;
     }
 }
