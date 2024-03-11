@@ -1,13 +1,13 @@
 void fib(int n) 
 { 
     int a=2,b=1;
-    int y; 
+    int z; 
     cout<<a<<endl;
     cout<<b<<endl; 
     int i=2;
     while (i<n)
     { 
-        y=a+b;
+        z=a+b;
         cout<<c<<endl;
         a=b;
         b=c;
