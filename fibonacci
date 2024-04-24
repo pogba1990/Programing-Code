@@ -2,8 +2,8 @@ void fib(int n)
 { 
     int a=2,b=2;
     int z; 
-    cout<<a<<endl;
-    cout<<b<<endl; 
+    cout<<a<<endl ;
+    cout<<b<<endl ; 
     int i=2;
     while (i<n)
     { 
