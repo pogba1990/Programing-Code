@@ -4,7 +4,7 @@ void fib(int n)
     int y; 
     cout<<a<<endl ;
     cout<<b<<endl ; 
-    int i=2;
+    int i:2;
     while (i<n)
     { 
         z=a+b;
