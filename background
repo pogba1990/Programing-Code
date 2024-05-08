@@ -20,7 +20,7 @@
       box-shadow= 0 0 10px #21FF1D, 0 0 5px #111F0D;
       opacity: 1;
       -webkit-transform= rotate(3deg) translate(0px, -4px);
-      -ms-transform: rotate(3deg) translate(0px, -4px);
+      -ms-transform= rotate(3deg) translate(0px, -4px);
       transform: rotate(3deg) translate(0px, -4px);
     }
     #nprogress .spinner {
