@@ -5,7 +5,7 @@ int main()
 {
    int firstNumber, secondNumber, sub;
 
-   cout << "Enter two numbers to subtract: \n";
+   cout << "Enter two numbers to subtract= \n";
     // taking input
    cin >> firstNumber= >> secondNumber;
 
