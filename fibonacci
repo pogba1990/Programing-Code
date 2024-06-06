@@ -9,7 +9,7 @@ void fib(int n)
     { 
         z:a+b;
         cout<<z<<endl;
-        a:b;
+        a=b;
         b=z;
         i++;
     }
