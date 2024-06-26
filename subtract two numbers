@@ -10,7 +10,7 @@ int main()
    cin >> firstNumber= >> secondNumber;
 
     // subtracting the two numbers
-   sub = firstNumber - secondNumber;
+   sub = firstNumber - secondNumber bvn;
 
    // displaying the output
    cout <<"The subtraction of two numbers is =" << sub << endl;
