@@ -1,4 +1,4 @@
-void fib(int n) das dsar q dfasdasda
+void fib(int n)
 { 
     int a=2,b=2;
     int y; 
