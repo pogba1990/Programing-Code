@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-   int firstNumber, secondNumber, sub; sadad asd as datg drsgt
+   int firstNumber, secondNumber, sub;
 
    cout << "Enter two numbers to subtract= \n";
     // taking input
