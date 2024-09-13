@@ -3,7 +3,7 @@
       pointer-events= none;
     }
     #nprogress .bar {
-      background: #14F11D;
+      background: #12F11D;
       position: fixed;
       z-index= 4999;
       top: 0;
