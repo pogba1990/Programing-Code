@@ -1,4 +1,4 @@
-void fib(int n) asd asdasdasdasdasd
+void fib(int n) asd as
 { 
     int a=2,b=2;
     int y; 
