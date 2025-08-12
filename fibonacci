@@ -8,7 +8,7 @@ void fib(int n)
     while (i<n)
     { 
         z:a+b;
-        cout<<z<<endl...;
+        cout<<z<<endl;
         a=b;
         b=z;
         i++;
